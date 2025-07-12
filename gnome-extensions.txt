@@ -1,0 +1,9 @@
+gsconnect@andyholmes.github.io
+tilingshell@ferrarodomenico.com
+just-perfection-desktop@just-perfection
+horizontal-workspace-indicator@tty2.io
+ding@rastersoft.com
+ubuntu-appindicators@ubuntu.com
+ubuntu-dock@ubuntu.com
+desktop-cube@schneegans.github.com
+burn-my-windows@schneegans.github.com
