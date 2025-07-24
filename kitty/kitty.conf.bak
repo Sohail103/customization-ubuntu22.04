@@ -1,0 +1,8 @@
+allow_remote_control yes
+enable_audio_bell no
+font_family FiraCode Nerd Font
+map alt+o send_text all ycd\n
+# BEGIN_KITTY_THEME
+# Harper
+include current-theme.conf
+# END_KITTY_THEME
